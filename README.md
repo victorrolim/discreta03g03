@@ -3,6 +3,7 @@ Simulador de Redes de Petri para Matematica Discreta, Escola Politécnica de Per
 
 #Colaboradores
 
+Rajiv Barbosa Machado de Souza - <rajivbarbosa@gmail.com>
 Rodrigo Juliani Barbosa - <rodrigo.pazzis@hotmail.com>
 
 
